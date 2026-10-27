@@ -1,0 +1,11 @@
+# Your downloaded data: contains your address, location and usage. Never commit it.
+Powerwall data/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Local tool settings
+.claude/
